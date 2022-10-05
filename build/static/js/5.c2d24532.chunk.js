@@ -1,0 +1,2 @@
+(this["webpackJsonpdebasree-portfolio"]=this["webpackJsonpdebasree-portfolio"]||[]).push([[5],{93:function(e,s,t){"use strict";t.r(s);var i=t(1);s.default=function(e){return Object(i.jsx)("div",{className:"d-flex justify-content-center align-items-center m-2 icon-card",children:Object(i.jsx)("img",{className:"img-fluid skills-img",src:e.src,alt:e.label,title:e.label,loading:"lazy"})})}}}]);
+//# sourceMappingURL=5.c2d24532.chunk.js.map
